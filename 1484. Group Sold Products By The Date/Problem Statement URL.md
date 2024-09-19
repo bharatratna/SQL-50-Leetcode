@@ -1,3 +1,0 @@
-<h2><a href="
-1484. Group Sold Products By The Date/">
-1484. Group Sold Products By The Date</a></h2>
